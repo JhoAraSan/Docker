@@ -11,7 +11,7 @@ The purpose of these containers is to streamline database management through the
 
 Links for docker images
 
-(https://hub.docker.com/r/jarangos89/image_adminer)
+[https://hub.docker.com/r/jarangos89/image_adminer]
 
-(https://hub.docker.com/r/jarangos89/image_mariadb)
+[https://hub.docker.com/r/jarangos89/image_mariadb]
 
